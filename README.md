@@ -37,7 +37,7 @@ Train analytics skills.
 Train data modeling.      
 
 ## Datasets
-You can find all datasets in the project folder [data]().  
+You can find all datasets in the project folder [data](https://github.com/ekaterinatao/datatone_Pawfull/tree/master/data).  
   
 Original sourses of data:  
 1. [Air pollution](https://sedac.ciesin.columbia.edu/data/set/aqdh-country-trends-major-air-pollutants-2003-2018)  
