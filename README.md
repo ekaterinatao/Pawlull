@@ -10,10 +10,10 @@
 ## Team
 [Ekaterina Tao](https://github.com/ekaterinatao) - project manager  
 [Eugene Baev](https://github.com/EugeneBaev-dsu4) - product manager  
-[Kseniya Belousova](https://github.com/Kseniyabel) - data analytics  
-[Arina Mironova](https://github.com/Nenneke2999) - data analytics  
-Alexander Nesterov - data analytics  
-Andrej Agafonov - data analytics   
+[Kseniya Belousova](https://github.com/Kseniyabel) - data analyst  
+[Arina Mironova](https://github.com/Nenneke2999) - data analyst  
+Alexander Nesterov - data analyst  
+Andrej Agafonov - data analyst   
 
 ## Description
 Here is our team project for datatone. We preprocessed several datasets and create our own for further analysis. Different datasets contain information related to mortality, air pollution, smoking rate and happiness level.   
