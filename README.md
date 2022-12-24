@@ -45,6 +45,19 @@ Original sourses of data:
 3. [Smoking prevalence](https://ourworldindata.org/smoking)  
 4. [Happiness data](https://www.kaggle.com/datasets/unsdsn/world-happiness)  
 
+**Parameters**
+- country  
+- year  
+- CO - carbon monooxide Population-Weighted (ppm)  
+- O3 - ozone Population-Weighted (ppm)  
+- PM - particulate matter (pollution) Pop.-Weighted (kg m^-3)  
+- Prevalence of current tobacco use (% of adults)  
+- Happiness Score are based on answers to the main life evaluation question asked in the poll (known as the Cantril ladder)  
+- GDP - Gross domestic product per Capita  
+- Health (Life Expectancy)  
+
+**Target feature**
+- Deaths from Chronic respiratory diseases per 100 000 population  
 
 ## Results
 - Row datasets were preprecessed and features were selected.  
