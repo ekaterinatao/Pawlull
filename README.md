@@ -1,4 +1,4 @@
-# Datatone/ Team Pawfull 🐾
+# Datatone. Team Pawfull 🐾
 
 ## Table of contents 
 [1. Our team](https://github.com/ekaterinatao/datatone_Pawfull#team)   
