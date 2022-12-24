@@ -24,7 +24,7 @@ To describe relationship between air pollution, smoking rate, happiness level of
 **Briefing**  
 - Pipeline of data analysis you can find in the main notebook.  
 - There are 8 datasets.
-- We should preprocess row data and create dataset for analysis.
+- We should preprocess row data and create own dataset for analysis.
 - We should perform EDA and prepare data for modeling.
 - *We should perform prediction model with target parameter 'mortality'.  
 
@@ -37,7 +37,8 @@ Train analytics skills.
 Train data modeling.      
 
 ## Datasets
-You can find all datasets in the main project folder.  
+You can find all datasets in the project folder [data]().  
+  
 Original sourses of data:  
 1. [Air pollution](https://sedac.ciesin.columbia.edu/data/set/aqdh-country-trends-major-air-pollutants-2003-2018)  
 2. [Mortality rate](https://ourworldindata.org/grapher/respiratory-disease-death-rate)  
