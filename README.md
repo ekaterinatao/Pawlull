@@ -1,1 +1,1 @@
-# Datatone/ Team Pawfull 🐾
+# Datatone. Team Pawfull 🐾
