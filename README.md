@@ -1,16 +1,16 @@
 # Datatone/ Team Pawfull 🐾
 
-## Table of contents
-[1. Our team](https://github.com/ekaterinatao/datatone_Pawfull/tree/main/README.md#Team)   
-[2. Description](https://github.com/ekaterinatao/datatone_Pawfull/tree/main/README.md#Description)   
-[3. Aim](https://github.com/ekaterinatao/datatone_Pawfull/tree/main/README.md#Aim)  
-[4. Datasets](https://github.com/ekaterinatao/datatone_Pawfull/tree/main/README.md#Datasets)  
-[5. Results](https://github.com/ekaterinatao/datatone_Pawfull/tree/main/README.md#Results)  
+## Table of contents 
+[1. Our team](https://github.com/ekaterinatao/datatone_Pawfull#team)   
+[2. Description](https://github.com/ekaterinatao/datatone_Pawfull#description)   
+[3. Aim](https://github.com/ekaterinatao/datatone_Pawfull#aim)  
+[4. Datasets](https://github.com/ekaterinatao/datatone_Pawfull#datasets)  
+[5. Results](https://github.com/ekaterinatao/datatone_Pawfull#results)  
 
 ## Team
 [Ekaterina Tao](https://github.com/ekaterinatao) - project manager  
-[Evgenij Baev](https://github.com/EugeneBaev-dsu4) - product manager  
-[Ksenia Belousova](https://github.com/Kseniyabel) - data analytics  
+[Eugene Baev](https://github.com/EugeneBaev-dsu4) - product manager  
+[Kseniya Belousova](https://github.com/Kseniyabel) - data analytics  
 Alexander Nesterov - data analytics  
 Andrej Agafonov - data analytics  
 Arina Mironova - data analytics  
@@ -29,6 +29,7 @@ To describe relationship between air pollution, smoking rate, happiness level of
 - *We should perform prediction model with target parameter 'mortality'.  
 
 **Skills**  
+  
 Train team building.    
 Train time memanagement.   
 Train row data preprocessing.  
