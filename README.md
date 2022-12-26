@@ -46,7 +46,9 @@ Original sourses of data:
 4. [Happiness data](https://www.kaggle.com/datasets/unsdsn/world-happiness)  
 
 **Modified dataset**
-We have created new dataset using information from data above. You can find our dataset [here](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/final_dataset.csv).  
+We have created new dataset using information from data above.  
+You can find our merged dataset [here](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/final_dataset.csv).  
+You can find final dataset with filled NA values but not normalized [here](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/final_dataset_imp.csv)). Normalization was performed in the modeling section.  
 We have selected features for further analysis. The complete list is below.
 
 **Parameters**
@@ -81,4 +83,5 @@ We have selected features for further analysis. The complete list is below.
 - Dataset was created for further analysis.  
 - EDA and hypothesis testing were performed.  
 - Multicollinearity was checked and feature selection was performed.  
-- Several regression models were realized (detailed info in colab [notebook](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/Team_Pawfull.ipynb)).
+- NA imputation and normalization were performed.  
+- Several regression models were realized (detailed info in colab [notebook](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/Team_Pawfull.ipynb).
