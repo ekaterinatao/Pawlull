@@ -45,20 +45,40 @@ Original sourses of data:
 3. [Smoking prevalence](https://ourworldindata.org/smoking)  
 4. [Happiness data](https://www.kaggle.com/datasets/unsdsn/world-happiness)  
 
+**Modified dataset**
+We have created new dataset using information from data above. You can find our dataset [here](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/final_dataset.csv).  
+We have selected features for further analysis. The complete list is below.
+
 **Parameters**
 - country  
 - year  
+- increase_mort - mortality difference between previous and current year
+- smoke_prev - Prevalence of current tobacco use (% of adults)  
+- increse_smoke - smoke prevalence difference between previous and current year  
 - CO - carbon monooxide Population-Weighted (ppm)  
+- CO-mean  
+- uplift_CO - difference between previous and current year  
 - O3 - ozone Population-Weighted (ppm)  
+- O3_mean  
+- uplift_O3 - difference between previous and current year  
 - PM - particulate matter (pollution) Pop.-Weighted (kg m^-3)  
-- Prevalence of current tobacco use (% of adults)  
-- Happiness Score are based on answers to the main life evaluation question asked in the poll (known as the Cantril ladder)  
-- GDP - Gross domestic product per Capita  
+- PM_mean  
+- uplift_PM - difference between previous and current year  
+- Family - mean number of family members  
+- Freedom  
+- Generosity  
+- Happiness Score - score based on answers to the main life evaluation question asked in the poll (known as the Cantril ladder)  
+- Economy (GDP per Capita) - Gross domestic product per Capita  
 - Health (Life Expectancy)  
+- Trust (Government Corruption)  
+- Dystopia Residual  
 
 **Target feature**
-- Deaths from Chronic respiratory diseases per 100 000 population  
+- mortality - Deaths from Chronic respiratory diseases per 100 000 population  
 
 ## Results
 - Row datasets were preprecessed and features were selected.  
 - Dataset was created for further analysis.  
+- EDA and hypothesis testing were performed.  
+- Multicollinearity was checked and feature selection was performed.  
+- Several regression models were realized (detailed info in colab [notebook](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/Team_Pawfull.ipynb)).
