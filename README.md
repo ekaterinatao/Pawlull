@@ -48,7 +48,7 @@ Original sourses of data:
 **Modified dataset**
 We have created new dataset using information from data above.  
 You can find our merged dataset [here](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/final_dataset.csv).  
-You can find final dataset with filled NA values but not normalized [here](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/final_dataset_imp.csv)). Normalization was performed in the modeling section.  
+You can find final dataset with filled NA values but not normalized [here](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/final_dataset_imp.csv). Normalization was performed in the modeling section.  
 We have selected features for further analysis. The complete list is below.
 
 **Parameters**
@@ -84,4 +84,4 @@ We have selected features for further analysis. The complete list is below.
 - EDA and hypothesis testing were performed.  
 - Multicollinearity was checked and feature selection was performed.  
 - NA imputation and normalization were performed.  
-- Several regression models were realized (detailed info in colab [notebook](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/Team_Pawfull.ipynb).
+- Several regression models were realized (detailed info in colab [notebook](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/Team_Pawfull.ipynb)).
