@@ -12,8 +12,8 @@
 [Eugene Baev](https://github.com/EugeneBaev-dsu4) - product manager  
 [Kseniya Belousova](https://github.com/Kseniyabel) - data analyst  
 [Arina Mironova](https://github.com/Nenneke2999) - data analyst  
+[Andrej Agafonov](https://github.com/kycokpiroga) - data analyst   
 Alexander Nesterov - data analyst  
-Andrej Agafonov - data analyst   
 
 ## Description
 Here is our team project for datatone. We preprocessed several datasets and create our own for further analysis. Different datasets contain information related to mortality, air pollution, smoking rate and happiness level.   
@@ -45,7 +45,7 @@ Original sourses of data:
 3. [Smoking prevalence](https://ourworldindata.org/smoking)  
 4. [Happiness data](https://www.kaggle.com/datasets/unsdsn/world-happiness)  
 
-**Modified dataset**
+**Modified dataset**  
 We have created new dataset using information from data above.  
 You can find our merged dataset [here](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/final_dataset.csv).  
 You can find final dataset with filled NA values but not normalized [here](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/final_dataset_imp.csv). Normalization was performed in the modeling section.  
