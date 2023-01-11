@@ -16,15 +16,15 @@
 Alexander Nesterov - data analyst  
 
 ## Description
-Here is our team project for datatone. We preprocessed several datasets and create our own for further analysis. Different datasets contain information related to mortality, air pollution, smoking rate and happiness level.   
+Here is our team project for datatone. We preprocessed several datasets and created our own for further analysis. Different datasets contain information related to mortality, air pollution, smoking rate and happiness level.   
 
 ## Aim
 To describe relationship between air pollution, smoking rate, happiness level of people and mortality rate caused by respiratory diseases.   
 
 **Briefing**  
-- Pipeline of data analysis you can find in the main notebook.  
-- There are 8 datasets.
-- We should preprocess row data and create own dataset for analysis.
+- Pipeline of the data analysis you can find in the main notebook.  
+- There are 8 different datasets.
+- We should preprocess row data and create our own dataset for analysis.
 - We should perform EDA and prepare data for modeling.
 - *We should perform prediction model with target parameter 'mortality'.  
 
@@ -39,7 +39,7 @@ Train data modeling.
 ## Datasets
 You can find all datasets in the project folder [data](https://github.com/ekaterinatao/datatone_Pawfull/tree/master/data).  
   
-Original sourses of data:  
+Original sourses of row data:  
 1. [Air pollution](https://sedac.ciesin.columbia.edu/data/set/aqdh-country-trends-major-air-pollutants-2003-2018)  
 2. [Mortality rate](https://ourworldindata.org/grapher/respiratory-disease-death-rate)  
 3. [Smoking prevalence](https://ourworldindata.org/smoking)  
@@ -48,7 +48,7 @@ Original sourses of data:
 **Modified dataset**  
 We have created new dataset using information from data above.  
 You can find our merged dataset [here](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/final_dataset.csv).  
-You can find final dataset with filled NA values but not normalized [here](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/final_dataset_imp.csv). Normalization was performed in the modeling section.  
+You can find final dataset with filled NA values but not normalized data [here](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/final_dataset_imp.csv). Normalization was performed in the modeling section.  
 We have selected features for further analysis. The complete list is below.
 
 **Parameters**
@@ -79,7 +79,7 @@ We have selected features for further analysis. The complete list is below.
 - mortality - Deaths from Chronic respiratory diseases per 100 000 population  
 
 ## Results
-- Row datasets were preprecessed and features were selected.  
+- Row datasets were preprocessed and features were selected.  
 - Dataset was created for further analysis.  
 - EDA and hypothesis testing were performed.  
 - Multicollinearity was checked and feature selection was performed.  
