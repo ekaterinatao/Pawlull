@@ -23,10 +23,10 @@ To describe relationship between air pollution, smoking rate, happiness level of
 
 **Briefing**  
 - Pipeline of the data analysis you can find in the main notebook.  
-- There are 8 different datasets.
+- There was 8 different datasets.
 - We should preprocess row data and create our own dataset for analysis.
 - We should perform EDA and prepare data for modeling.
-- *We should perform prediction model with target parameter 'mortality'.  
+- *We should perform prediction model with target 'mortality'.  
 
 **Skills**  
   
@@ -49,9 +49,9 @@ Original sourses of row data:
 We have created new dataset using information from data above.  
 You can find our merged dataset [here](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/final_dataset.csv).  
 You can find final dataset with filled NA values but not normalized data [here](https://github.com/ekaterinatao/datatone_Pawfull/blob/master/final_dataset_imp.csv). Normalization was performed in the modeling section.  
-We have selected features for further analysis. The complete list is below.
+We have selected features for further analysis.
 
-**Parameters**
+**Features**
 - country  
 - year  
 - increase_mort - mortality difference between previous and current year
@@ -75,12 +75,12 @@ We have selected features for further analysis. The complete list is below.
 - Trust (Government Corruption)  
 - Dystopia Residual  
 
-**Target feature**
+**Target**
 - mortality - Deaths from Chronic respiratory diseases per 100 000 population  
 
 ## Results
 - Row datasets were preprocessed and features were selected.  
-- Dataset was created for further analysis.  
+- Merged dataset was created for further analysis.  
 - EDA and hypothesis testing were performed.  
 - Multicollinearity was checked and feature selection was performed.  
 - NA imputation and normalization were performed.  
